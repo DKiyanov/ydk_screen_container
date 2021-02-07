@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>YDK_CL_SCREEN_CONTAINER</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Screen container</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>YDK_CL_SCREEN_CONTAINER</CLSNAME>
+     <CMPNAME>INIT</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Executed only once, when opening the screen</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YDK_CL_SCREEN_CONTAINER</CLSNAME>
+     <CMPNAME>PAI</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Process after input</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YDK_CL_SCREEN_CONTAINER</CLSNAME>
+     <CMPNAME>PBO</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Process before output</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
